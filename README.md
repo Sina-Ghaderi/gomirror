@@ -1,0 +1,2 @@
+# gomirror
+golang dl mirror
